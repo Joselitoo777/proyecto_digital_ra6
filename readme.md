@@ -25,3 +25,47 @@ El área académica genera contenidos → Administración gestiona alumnos y pag
 
 ---
 
+## 4) Tecnologías
+- **Cloud Computing:** alojamiento de la plataforma y almacenamiento de datos.  
+- **Base de Datos (BD):** gestión de usuarios, cursos y resultados.  
+- **Aplicación Web:** plataforma e-learning accesible desde navegador.  
+- **Inteligencia Artificial (IA):** recomendaciones de cursos y análisis de progreso.  
+
+---
+
+## 5) Datos
+- **Datos que maneja:**  
+  - Datos personales de alumnos (nombre, email, progreso).  
+  - Información de cursos (contenidos, duración, profesores).  
+  - Resultados académicos (notas, evaluaciones).  
+
+- **Información que se obtiene:**  
+  - Progreso del estudiante.  
+  - Cursos más demandados.  
+  - Tasa de finalización.  
+
+---
+
+## 6) Seguridad
+- **Riesgos:**  
+  - Acceso no autorizado a datos personales.  
+  - Pérdida de información por fallos técnicos.  
+
+- **Medidas de protección:**  
+  - Autenticación segura y cifrado de datos.  
+  - Copias de seguridad periódicas en la nube.  
+
+---
+
+## 7) RRHH
+- **Nuevas competencias digitales:**  
+  - Manejo de plataformas e-learning.  
+  - Análisis de datos educativos.  
+  - Competencias en herramientas digitales.  
+
+- **Cambios organizativos:**  
+  - Formación del personal en nuevas tecnologías.  
+  - Creación de un equipo de soporte digital.  
+
+---
+
