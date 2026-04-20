@@ -69,3 +69,27 @@ El área académica genera contenidos → Administración gestiona alumnos y pag
 
 ---
 
+## 8) Integración
+- **Sistemas conectados:**  
+  - Plataforma web + base de datos + sistema de pagos online.  
+
+- **Procesos automatizados:**  
+  - Inscripción de alumnos.  
+  - Generación de certificados.  
+  - Evaluación automática de tests.  
+
+---
+
+## 9) Valor
+- **Beneficios de digitalizar:**  
+  - Mayor alcance (acceso global).  
+  - Reducción de costes operativos.  
+  - Mejora en la experiencia del usuario.  
+
+- **Riesgos de no hacerlo:**  
+  - Pérdida de competitividad.  
+  - Limitación del crecimiento.  
+  - Ineficiencia en procesos.  
+
+---
+
