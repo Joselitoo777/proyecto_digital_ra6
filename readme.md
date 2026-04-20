@@ -93,3 +93,5 @@ El área académica genera contenidos → Administración gestiona alumnos y pag
 
 ---
 
+## 11) Conclusión
+-La transformación digital de EduTech Academy permite mejorar la eficiencia, ampliar el alcance del negocio y ofrecer una experiencia educativa moderna. La implementación de tecnologías digitales facilita la automatización de procesos y el análisis de datos, aunque requiere inversión inicial y adaptación del personal.
